@@ -1,4 +1,4 @@
-# Arabic Stance Prediction
+# Author Stance Prediction
 
 This project focuses on predicting the stance of authors from Arabic text inputs. Utilizing several natural language processing techniques and machine learning models, this tool preprocesses Arabic texts, extracts relevant features using ARABERT, and then classifies the stance into predefined categories. The project leverages libraries such as `transformers`, `scikit-learn`, `gensim`, `nltk`, and others for efficient processing and analysis.
 
